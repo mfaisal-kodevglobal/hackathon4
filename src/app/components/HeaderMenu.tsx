@@ -14,7 +14,7 @@ const HeaderMenu: React.FC = () => {
 
      
           {/* Header Section */}
-          <div className="flex justify-between items-center pl-48 py-2 border-b bg-white  w-[1177px] h-[40px]">
+          <div className="flex justify-between items-center pl-48 py-2 border-b bg-white h-[40px]">
 
             {/* Logo */}
             <div>
@@ -247,7 +247,7 @@ const HeaderMenu: React.FC = () => {
             </div>
 
             {/* Search & Icons */}
-            <div className="flex items-center space-x-4">
+            <div className="flex items-center margin-right-4 mr-60">
               {/* Search */}
               <div className="hidden sm:flex border mx-2 rounded-sm">
                 <input
