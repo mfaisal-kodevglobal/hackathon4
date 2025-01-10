@@ -247,7 +247,7 @@ const HeaderMenu: React.FC = () => {
             </div>
 
             {/* Search & Icons */}
-            <div className="flex items-center margin-right-4 mr-60">
+            <div className="flex items-center margin-right-4 mr-50">
               {/* Search */}
               <div className="hidden sm:flex border mx-2 rounded-sm">
                 <input
